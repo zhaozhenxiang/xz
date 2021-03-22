@@ -1,0 +1,18 @@
+{
+    "name": "thinkpad/firstcomposer",
+    "description": "learn compsoer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiangzi",
+            "email": "854850613@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "xz\\": "src/"
+        }
+    }
+}
